@@ -1,2 +1,0 @@
-# mobileautomation
-Appium with Java
